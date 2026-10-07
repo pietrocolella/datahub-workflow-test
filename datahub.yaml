@@ -1,8 +1,8 @@
 version: 1
 
 dataset:
-  id: weather.gui_production_test
-  name: GUI production test
+  id: weather.gui_production_test_v2
+  name: GUI production test v2
 
 output:
-  table: datahub_workflow_test_output
+  table: datahub_workflow_test_output_v2
